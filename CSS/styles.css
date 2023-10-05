@@ -1,0 +1,43 @@
+div { 
+  font-family: 'Fredericka the Great', cursive;
+  
+  border-color: #5587CB;
+  font-size: 20px;
+   font-weight: bold;
+  position: relative;
+  background-position: center;
+  z-index: 1;
+}
+
+h2 { 
+  font-family: 'Fredericka the Great', cursive;
+  
+  border-color: #5587CB;
+  font-size: 20px;
+   font-weight: bold;
+  position: relative;
+  background-position: center;
+  z-index: 1;
+}
+
+h5 { 
+  font-family: 'Fredericka the Great', cursive;
+  
+  border-color: #5587CB;
+  font-size: 20px;
+   font-weight: bold;
+  position: relative;
+  background-position: center;
+  z-index: 1;
+}
+
+p { 
+  font-family: 'Fredericka the Great', cursive;
+  
+  border-color: #5587CB;
+  font-size: 20px;
+   font-weight: bold;
+  position: relative;
+  background-position: center;
+  z-index: 1;
+}
